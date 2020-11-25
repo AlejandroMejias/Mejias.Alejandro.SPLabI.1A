@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1606310479 source:c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606310443 c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\linkedlist.h
+
+1606314817 source:c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"auxiliares.h"
+	"controller.h"
+
+1606314357 source:c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"auxiliares.h"
+
+1606305896 c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\auxiliares.h
+
+1606314827 source:c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"auxiliares.h"
+	"controller.h"
+	"bicicletas.h"
+	"parser.h"
+
+1606312194 c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\controller.h
+
+1606310675 c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\bicicletas.h
+
+1606307882 c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\parser.h
+
+1606313448 source:c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"parser.h"
+
+1606313702 source:c:\users\aleja\onedrive\escritorio\mejias.alejandro.splabi.1a\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"controller.h"
+
